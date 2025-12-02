@@ -1,2 +1,2 @@
-# task_2-sport_nutrition_shop-
+# task_2
 Интернет-магазин спортивного питания на Yii2
